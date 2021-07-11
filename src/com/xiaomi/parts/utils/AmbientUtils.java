@@ -12,9 +12,9 @@ import java.util.List;
 
 public class AmbientUtils {
 
-    public static final String TAG = "XiaomiPartsActions";
+    public static final String TAG = "PhoenixPartsActions";
 
-    public static final String PREFERENCES = "XiaomiPartsPreferences";
+    public static final String PREFERENCES = "PhoenixPartsPreferences";
     public static final String AMBIENT_GESTURE_HAPTIC_FEEDBACK =
             "AMBIENT_GESTURE_HAPTIC_FEEDBACK";
 
