@@ -45,7 +45,7 @@ import com.xiaomi.parts.SuTask;
 public class DeviceSettings extends PreferenceFragment implements
         Preference.OnPreferenceChangeListener {
 
-    private static final String TAG = "XiaomiParts";
+    private static final String TAG = "PhoenixParts";
 
     public static final String CATEGORY_DISPLAY = "display";
     public static final String PREF_DEVICE_KCAL = "device_kcal";
